@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [io.github.controlwear:virtualjoystick:1.9.2] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\virtualjoystick-1.9.2.aar\89033a0ff0a0f02b6847077370b57098\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d38baaf5437bbeb95c4ecd65937b86b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d59e72dbfeb1db7054664c18207bcc72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f2b31c73074f777072f470a2ac7783b6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0f61ca431df6e86213e0573bfabdc9eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1366d93ffca052d130115b8d06602ee1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5beac5a123c9b04a393d9950c917d97e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\cd243ffb9bc1acf494945dbe40a8d455\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\790f67a9b178680f5ff7a1fad6d6c1f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d845faa14a10c91881e92e7d723cc280\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3ead18ea7e8e7b0753e1aceac54f33c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\16a49df59377dc4b20ee22d6ecfaba43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4783b745e64da9195e93ed6bd8489883\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4e6cdff9b3e21de51cb17e8562e0a77b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a640ec87d0696b59fbf38a5d9d4724ba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\14a20a7e9d84093dac90020acc928844\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\00b199bd6f2fbdf045702c6a9a8ef05e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\af769db9d63aaf852e9040dc5f739574\AndroidManifest.xml:17:1-22:12
+INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.INTERNET
+ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.VIBRATE
+ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:10:22-63
+application
+ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:12:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f2b31c73074f777072f470a2ac7783b6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f2b31c73074f777072f470a2ac7783b6\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.mustafa.shakir.happyhome.MainActivity
+ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:19:19-47
+activity#com.mustafa.shakir.happyhome.device_list
+ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:20:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.mustafa.shakir.happyhome.FridayMain
+ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:27:9-30:56
+	android:label
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:29:13-63
+	android:theme
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml:28:13-39
+uses-sdk
+INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+MERGED from [io.github.controlwear:virtualjoystick:1.9.2] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\virtualjoystick-1.9.2.aar\89033a0ff0a0f02b6847077370b57098\AndroidManifest.xml:8:5-10:41
+MERGED from [io.github.controlwear:virtualjoystick:1.9.2] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\virtualjoystick-1.9.2.aar\89033a0ff0a0f02b6847077370b57098\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d38baaf5437bbeb95c4ecd65937b86b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d38baaf5437bbeb95c4ecd65937b86b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d59e72dbfeb1db7054664c18207bcc72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d59e72dbfeb1db7054664c18207bcc72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f2b31c73074f777072f470a2ac7783b6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f2b31c73074f777072f470a2ac7783b6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0f61ca431df6e86213e0573bfabdc9eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0f61ca431df6e86213e0573bfabdc9eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1366d93ffca052d130115b8d06602ee1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1366d93ffca052d130115b8d06602ee1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5beac5a123c9b04a393d9950c917d97e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5beac5a123c9b04a393d9950c917d97e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\cd243ffb9bc1acf494945dbe40a8d455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\cd243ffb9bc1acf494945dbe40a8d455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\790f67a9b178680f5ff7a1fad6d6c1f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\790f67a9b178680f5ff7a1fad6d6c1f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d845faa14a10c91881e92e7d723cc280\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d845faa14a10c91881e92e7d723cc280\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3ead18ea7e8e7b0753e1aceac54f33c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3ead18ea7e8e7b0753e1aceac54f33c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\16a49df59377dc4b20ee22d6ecfaba43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\16a49df59377dc4b20ee22d6ecfaba43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4783b745e64da9195e93ed6bd8489883\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4783b745e64da9195e93ed6bd8489883\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4e6cdff9b3e21de51cb17e8562e0a77b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4e6cdff9b3e21de51cb17e8562e0a77b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a640ec87d0696b59fbf38a5d9d4724ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a640ec87d0696b59fbf38a5d9d4724ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\14a20a7e9d84093dac90020acc928844\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\14a20a7e9d84093dac90020acc928844\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\00b199bd6f2fbdf045702c6a9a8ef05e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\00b199bd6f2fbdf045702c6a9a8ef05e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\af769db9d63aaf852e9040dc5f739574\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ShakirPC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\af769db9d63aaf852e9040dc5f739574\AndroidManifest.xml:20:5-44
+INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+		ADDED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android Projects\HappyHome\app\src\main\AndroidManifest.xml

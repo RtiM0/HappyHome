@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context=".RemoteBoi">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Remote"
+            android:textAlignment="center"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="@android:color/white" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <RelativeLayout
+            android:id="@+id/controlboi"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="50dp"
+            android:layout_weight="2"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/going"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_above="@id/no"
+                android:layout_centerInParent="true"
+                android:background="@drawable/ic_keyboard_arrow_up_black_24dp" />
+
+            <Button
+                android:id="@+id/lt"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
+                android:background="@drawable/ic_keyboard_arrow_left_black_24dp" />
+
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_centerInParent="true"
+                android:id="@+id/no"
+                android:background="@drawable/ic_fiber_manual_record_black_24dp" />
+
+            <Button
+                android:id="@+id/rt"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerInParent="true"
+                android:background="@drawable/ic_keyboard_arrow_right_black_24dp" />
+
+            <Button
+                android:id="@+id/backboi"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_below="@id/no"
+                android:layout_centerInParent="true"
+                android:background="@drawable/ic_keyboard_arrow_down_black_24dp" />
+
+        </RelativeLayout>
+            <io.github.controlwear.virtual.joystick.android.JoystickView
+                xmlns:custom="http://schemas.android.com/apk/res-auto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                custom:JV_buttonColor="#b71c1c"
+                custom:JV_buttonSizeRatio="32%"
+                android:layout_centerInParent="true"
+                custom:JV_borderColor="#212121"
+                android:id="@+id/joy"
+                custom:JV_backgroundColor="#212121"
+                custom:JV_borderWidth="4dp"
+                custom:JV_fixedCenter="false"/>
+            <ToggleButton
+                android:id="@+id/toggleButton"
+                android:layout_width="match_parent"
+                android:layout_alignParentBottom="true"
+                android:layout_height="wrap_content"
+                android:textOff="Buttons"
+                android:textOn="Joystick"
+                android:textColor="@android:color/white"
+                android:background="#d50000"
+                android:text="ToggleButton" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/remote"
+            android:icon="@drawable/ic_settings_remote_black_24dp"
+            android:title="Remote" />
+        <item
+            android:id="@+id/voiceNav"
+            android:icon="@drawable/ic_record_voice_over_black_24dp"
+            android:title="Voice" />
+    </group>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/members"
+                android:icon="@drawable/ic_people_black_24dp"
+                android:title="Members"/>
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="About"/>
+
+        </menu>
+    </item>
+</menu>
